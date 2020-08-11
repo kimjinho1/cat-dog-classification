@@ -149,9 +149,6 @@ body {
     color: #35465d;
 }
 
-
-/* On screens that are 600px or less, set the background color to olive */
-
 @media screen and (max-width: 600px) {
     html {
         font-size: 10px;
@@ -159,27 +156,6 @@ body {
     .navbar-brand {
         font-size: 2rem;
     }
-}
-
-.youtube-link {
-    font-size: 1.5rem;
-    line-height: 1.71;
-    text-align: center;
-    color: #f73737;
-    text-decoration: underline;
-}
-
-.youtube-link:hover {
-    font-size: 1.5rem;
-    line-height: 1.71;
-    text-align: center;
-    color: #f73737;
-    text-decoration: underline;
-}
-
-.youtube-icon {
-    width: 30px;
-    height: 27.262px;
 }
 
 .upload {
