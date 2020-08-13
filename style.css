@@ -218,6 +218,25 @@ body {
     background-color: rgba(251, 176, 59, 1);
 }
 
+.Else-box {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 2rem;
+    border-radius: 10px;
+    width: 100%;
+    background-color: rgba(235, 90, 210, 0.2);
+}
+
+.Else-bar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 2rem;
+    border-radius: 10px;
+    background-color: rgba(235, 90, 210, 1);
+}
+
 .percent-text {
     font-size: 1rem;
     color: #ffffff;
@@ -242,12 +261,16 @@ body {
     font-size: 1.5rem;
 }
 
+.Dog-animal-title {
+    color: #548dd4;
+}
+
 .Cat-animal-title {
     color: #ff6c0a;
 }
 
-.Dog-animal-title {
-    color: #548dd4;
+.Else-animal-title {
+    color: #bb65ddf1;
 }
 
 label {
