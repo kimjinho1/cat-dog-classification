@@ -1,5 +1,8 @@
 # [cat-dog-classification](https://cat-dog-classification.netlify.app/)  
-## 웹사이트 주소: https://cat-dog-classification.netlify.app  
+## 웹사이트 주소  
+https://cat-dog-classification.netlify.app  
+https://kimjinho1.github.io/cat-dog-classification/  
+
 ### 공부 겸 따라 만든 강아지, 고양이 분류해주는 사이트  
 
 ### 데이터 출처:  
